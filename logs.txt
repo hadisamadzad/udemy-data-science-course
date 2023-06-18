@@ -1,0 +1,4 @@
+Info: something good
+Error: something bad
+
+Fatal: something critical
